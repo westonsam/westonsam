@@ -1,19 +1,24 @@
 <h1><b> Hey, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </b></h1>
 <br />
 
-I'm a self-taught Front End developer and operating systems engineer
+I'm a self-taught Front End, ML, and OS developer.
 
 **About me**
 
 - 🎒 I am studying Electrical Engineering at Cal Poly SLO
 
-- ❤️ I love developing unique solutions to new problems in React and building fun experiments in C and C++.
+- ❤️ I love developing unique solutions to new problems in React, building fun experiments in C and C++, and creating AI models to answer my curiosities.
   
 - ⚡ My other hobbies include rugby, judo, and music production
   
 - 💬 Ask me about anything or provide problems for me to solve [here](https://github.com/westonsam/westonsam/issues)
   
 Proficient:
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
