@@ -30,9 +30,6 @@ Familiar:
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20" alt="arduino" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"></code>
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westonsam&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=westonsam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="westonsam's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westonsam&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
