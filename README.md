@@ -1,7 +1,7 @@
 <h1><b> Hey, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </b></h1>
 <br />
 
-I'm a self-taught Front End, ML, and OS developer.
+I'm a Hardware, ML, and Embedded developer.
 
 **About me**
 
