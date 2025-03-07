@@ -7,7 +7,7 @@ I'm a self-taught Front End, ML, and OS developer.
 
 - 🎒 I am studying Electrical Engineering at Cal Poly SLO
 
-- ❤️ I love developing unique solutions to new problems in React, building fun experiments in C and C++, and creating AI models to answer my curiosities.
+- ❤️ I love developing unique solutions to new problems in Verilog and VHDL, building fun experiments in C and C++, and creating AI models to answer my curiosities.
   
 - ⚡ My other hobbies include rugby, judo, and music production
   
