@@ -11,8 +11,6 @@ I'm a Hardware, ML, and Embedded developer.
   
 - ⚡ My other hobbies include rugby, judo, and music production
   
-- 💬 Ask me about anything or provide problems for me to solve [here](https://github.com/westonsam/westonsam/issues)
-  
 Proficient:
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code>
